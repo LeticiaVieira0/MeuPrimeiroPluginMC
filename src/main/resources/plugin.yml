@@ -1,0 +1,6 @@
+name: MeuPrimeiroPlugin
+description: $description
+version: '${version}'
+
+main: me.leticiavieira0.meuPrimeiroPlugin.MeuPrimeiroPlugin
+api-version: '1.21'
